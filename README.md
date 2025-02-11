@@ -1,4 +1,4 @@
-# Weather Application
+# REAL TIME CHAT APPLICATION
 
 *COMPANY* - CODTECH IT SOLUTIONS
 
@@ -49,14 +49,14 @@ Created a real-time chat application using Socket.IO, React,cors and Express. Se
      = In components structure, I used paragraph,"SrollToBottom" for scrolling the chat, messageContent, message Content time,then footer and a button, when i click it 
       then message send.
    - In client folder, one file that name is "App.js".
-     = This is the main file in that i import "App.css", in that file i write all the css code. And import io,Chat and Socket.io.
-     = Create a socket connection to the server at localhost:3001
-     = useState hooks to manage username, room ID, and chat
-     = Use function to handle joining a room
-     = Set the showChat state to true to display the chat component
-     = Use condition to render: if showchat is false, display the join chat form.
-     = Update the username state, room state when the input value changes
-     = Use condition to render: if showchat is true, display the chat component.
+      This is the main file in that i import "App.css", in that file i write all the css code. And import io,Chat and Socket.io.
+      Create a socket connection to the server at localhost:3001
+      useState hooks to manage username, room ID, and chat
+      Use function to handle joining a room
+      Set the showChat state to true to display the chat component
+      Use condition to render: if showchat is false, display the join chat form.
+      Update the username state, room state when the input value changes
+      Use condition to render: if showchat is true, display the chat component.
 
   3. Features:
      - Real-time Messaging: Users can send and receive messages in real-time.
@@ -69,6 +69,12 @@ Created a real-time chat application using Socket.IO, React,cors and Express. Se
     
 
   ### OUTPUT #####
+
+  ![Image](https://github.com/user-attachments/assets/5b4cd3dd-c144-49e9-b040-bf207b6ed0e6)
+![Image](https://github.com/user-attachments/assets/87fd8adc-af10-4fdc-8619-b81ddfc51d46)
+![Image](https://github.com/user-attachments/assets/676b8b94-5266-4f6c-a9e9-80eb309623af)
+![Image](https://github.com/user-attachments/assets/336cd05e-fc83-4ab7-99e8-047a5d9ba378)
+![Image](https://github.com/user-attachments/assets/99515c65-15cc-4ad0-b7ce-0aa624e6483d)
   
      
    
