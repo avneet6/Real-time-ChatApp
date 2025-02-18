@@ -43,10 +43,10 @@ Created a real-time chat application using Socket.IO, React,cors and Express. Se
    - Create a folder "client" for the frontend.
    - Initialize React project and install Socket.IO client.
    - Create a "Chat.js" file to write all the codes related to chat.
-     = In this file, The Chat component  takes three props that are socket, username and room.
-     = Use useState hook to manage current message input and list
-     = Write function to send a message, create a message data object, emit message data to the server, update message list with the new message
-     = In components structure, I used paragraph,"SrollToBottom" for scrolling the chat, messageContent, message Content time,then footer and a button, when i click it 
+     - In this file, The Chat component  takes three props that are socket, username and room.
+     - Use useState hook to manage current message input and list.
+     - Write function to send a message, create a message data object, emit message data to the server, update message list with the new message
+     - In components structure, I used paragraph,"SrollToBottom" for scrolling the chat, messageContent, message Content time,then footer and a button, when i click it 
       then message send.
    - In client folder, one file that name is "App.js".
       This is the main file in that i import "App.css", in that file i write all the css code. And import io,Chat and Socket.io.
