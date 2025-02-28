@@ -86,3 +86,9 @@
   both scalable and maintainable.
 
 # OUTPUT #
+
+![Image](https://github.com/user-attachments/assets/3a7ea7f1-004f-4cec-b5ad-be094b22b7eb)
+![Image](https://github.com/user-attachments/assets/e976b21b-1df8-4662-b947-89cfe393743e)
+![Image](https://github.com/user-attachments/assets/ccd07ff4-f25a-4452-a361-966aff955b62)
+![Image](https://github.com/user-attachments/assets/70e032c1-86a1-4e04-8d6a-058996069deb)
+![Image](https://github.com/user-attachments/assets/109dc8b1-35af-4147-985b-ed9c58a6915e)
